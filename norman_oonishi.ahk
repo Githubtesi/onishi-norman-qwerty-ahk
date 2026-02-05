@@ -128,7 +128,7 @@ h::y
 j::n
 k::i
 l::o
-vkBBsc027::h
+sc027::h   ; ← ここが Norman の H
 
 z::z
 x::x
