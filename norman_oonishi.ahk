@@ -94,7 +94,19 @@ m::d
 
 #HotIf
 
+
+; =========================================================
+; norman配列
+; =========================================================
 #HotIf (layoutMode = 2) && !(GetKeyState("Ctrl","P") || GetKeyState("Alt","P"))
+
+sc079 & Space:: Send("{Enter}")
+sc07B & Space:: Send("{Backspace}")
+
+sc079 & k:: Send("{Down}")
+sc079 & i:: Send("{Up}")
+sc079 & j:: Send("{Left}")
+sc079 & l:: Send("{Right}")
 
 q::q
 w::w
@@ -116,7 +128,7 @@ h::y
 j::n
 k::i
 l::o
-`;::h
+vkBBsc027::h
 
 z::z
 x::x
