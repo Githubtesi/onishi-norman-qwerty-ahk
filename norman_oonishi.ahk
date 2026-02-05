@@ -95,19 +95,20 @@ m::d
 #HotIf
 
 ; =========================================================
-; Norman配列
+; Norman配列（画像準拠版）
 ; =========================================================
 #HotIf (layoutMode = 2) && !(GetKeyState("Ctrl","P") || GetKeyState("Alt","P"))
 
 q::q
-w::d
-e::r
-r::w
-t::b
+w::w
+e::d
+r::f
+t::k
 y::j
-u::f
-i::u
-o::p
+u::u
+i::r
+o::l
+p::;
 
 a::a
 s::s
@@ -118,13 +119,17 @@ h::y
 j::n
 k::i
 l::o
+`;::h   ; セミコロンキー → h
 
 z::z
 x::x
 c::c
 v::v
-b::k
-n::h
+b::b
+n::p
 m::m
+,::,
+.::.
+/::/
 
 #HotIf
