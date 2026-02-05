@@ -97,7 +97,7 @@ Norman は **QWERTY に近いまま英語タイピング効率を改善した配
 2. 本リポジトリを clone または zip ダウンロード
 
 ```bash
-git clone https://github.com/yourname/onishi-norman-qwerty-ahk.git
+git clone https://github.com/Githubtesi/onishi-norman-qwerty-ahk.git
 ```
 
 3. `.ahk` ファイルをダブルクリックで起動
