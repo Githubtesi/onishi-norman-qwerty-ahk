@@ -6,8 +6,6 @@ AutoHotkey を使って
 
 👉 **AutoHotkey v2.0.19 で動作確認済み**
 
-<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/fb100634-0bc6-42e2-a1ca-502ec81446bc" />
-
 ---
 
 ## 🚀 Features
