@@ -116,7 +116,7 @@ h::y
 j::n
 k::i
 l::o
-`;::Send("h")
+sc027::h 
 
 z::z
 x::x
